@@ -1,0 +1,8 @@
+priority,score,name,email,source,tags,message
+HOT,90,Priya Raman,priya@nestleymgmt.com,Website,urgent|budget-stated|decision-maker|source:website,"We need quotes for preventive maintenance across 14 properties. Budget is about $40,000 per year. Deadline this week."
+HOT,85,Dana Whitfield,dana.w@brightco-hvac.com,Google,urgent|decision-maker|source:google|existing-customer-issue,"Urgent — our service invoice looks double billed, need this fixed today, I'm the owner"
+WARM,65,Renee Okafor,renee@okafordental.com,Google,urgent|decision-maker|source:google,"I'm the practice manager, we need an estimate for emergency compressor repair, ASAP"
+WARM,50,Sandra Kim,sandra.kim@harborview.io,Website,budget-stated|source:website|pricing-question,"Requesting a quote for annual service contract, decision needed by end of month. Our budget is $18,000."
+WARM,40,Tom Alvarez,tomalvarez@outlook.com,Facebook,urgent|booking-request,"Can I book an appointment tomorrow afternoon? 9am-5pm works, call me at 555.6123"
+COLD,25,Marcus Lee,marcus.lee@gmail.com,Referral,source:referral|pricing-question,"Hi, how much do you charge for a full duct cleaning on a two story house?"
+COLD,10,Jeff Pearson,jeff.pearson@yahoo.com,Facebook,pricing-question,Do you guys also do filter replacements? What's the price?

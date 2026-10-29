@@ -1,0 +1,12 @@
+{
+  "input": "sample/inquiries.csv",
+  "leads_in": 8,
+  "spam_filtered": 1,
+  "triaged": 7,
+  "by_priority": {
+    "HOT": 2,
+    "WARM": 3,
+    "COLD": 2
+  },
+  "drafts_written": 7
+}
